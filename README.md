@@ -444,10 +444,10 @@ Antes da entrega, confirme a visibilidade pública do repositório e teste a exe
 | Nome | Curso | RA |
 |---|---|---|
 | Yuri Richard da Silva | Análise e Desenvolvimento de Sistemas | 12826132322 |
-| Guilherme Fernandes do Nascimento | Análise e Desenvolvimento de Sistemas | — |
-| Leticia Vitória Guedes Batista | Ciência da Computação | — |
-| João Lucas de Oliveira Mendes | Ciência da Computação | — |
-| Flauberth Dennes Teixeira de Souza | Análise e Desenvolvimento de Sistemas | — |
+| Guilherme Fernandes do Nascimento | Análise e Desenvolvimento de Sistemas | 12826132254 |
+| Leticia Vitória Guedes Batista | Ciência da Computação | 12825212461 |
+| João Lucas de Oliveira Mendes | Ciência da Computação | 12825211405 |
+| Flauberth Dennes Teixeira de Souza | Análise e Desenvolvimento de Sistemas | 12826124021 |
 
 **Instituição:** Universidade Potiguar (UnP)  
 **Unidade Curricular:** Projeto e Engenharia de Software  
