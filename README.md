@@ -405,9 +405,7 @@ O desenvolvimento foi realizado de forma iterativa e incremental: iniciou-se com
 
 | Documento | Descrição |
 |---|---|
-| [Documentação Completa da A3](documentacao/Documentacao_Completa_A3_Meu_Companheiro_Final_16pg.pdf) | PDF de 16 páginas com requisitos funcionais e não funcionais, elicitação, metodologia, casos de uso, diagrama de classes UML, arquitetura, modelo do banco H2, integração, testes e configuração. |
-
-O PDF consolidado deve ser colocado na pasta `documentacao/` com o nome indicado acima para que o link funcione no GitHub.
+| [Documentação Completa da A3] | PDF de 16 páginas com requisitos funcionais e não funcionais, elicitação, metodologia, casos de uso, diagrama de classes UML, arquitetura, modelo do banco H2, integração, testes e configuração. |
 
 ---
 
