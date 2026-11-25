@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Meu Companheiro",
+            "request": "launch",
+            "mainClass": "MeuCompanheiro",
+            "cwd": "${workspaceFolder}",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/lib/h2-2.5.252.jar"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
